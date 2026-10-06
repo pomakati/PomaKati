@@ -3,7 +3,7 @@
 <img width="2172" height="724" alt="Poma Kati" src="https://github.com/user-attachments/assets/96884e7a-8cea-492d-a14e-89c885415c97" />
 
 
-**Multi-disciplinary technologist and creative — bridging Business & Tech consulting with a decade of professional audio/music production, building toward a consulting firm (name coming soon).**
+**Multi-disciplinary Technologist and Creative Consultant — bridging Business & Tech with Creativity & Art.**
 
 </div>
 
