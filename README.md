@@ -47,7 +47,7 @@ My current ambiion is to combine deep technical consulting capability with real 
 
 **Networking**
 
-- Enterprise-grade *and* residential/small-medium commercial network design: UniFi / Arista
+- Enterprise-grade *and* residential/small-medium commercial network design: UniFi / Cisco
 - Structured, temperature-controlled server lab operations
 - **Dante audio networking — fully certified**
 
