@@ -11,30 +11,12 @@
 
 ### About
 
-I work self-directed across a wide range of technical *and* creative disciplines, rather than staying in one lane — AI/ML infrastructure and compute architecture, full-stack web/software development, networking and systems administration, and 10 years of professional music composition, arrangement, and production alongside it. Most of the technical work lives on a large multi-campus build I design and manage end-to-end: everything from server racks to studio audio networks to building-level automation. 
+I work self-directed across a wide range of technical *and* creative disciplines — from AI/ML infrastructure and compute architecture, full-stack web/software development, networking and systems administration, to 10 years of professional music composition, arrangement, and production for recording artists, film/TV, gaming alongside it. 
 
-Before embarking this new journey, I found myself managing the responsibilities and roles of a Project Manager, Systems Designer and Consultant within both fields while working in smaller positions as a Producer, Composer or within lower Management- with both fields calling for me to "climb the ladder" separately in order to attain the position that reflects these responsibilities.
+Before embarking this new journey, I found myself managing the responsibilities and roles of a Project Manager, Systems Designer, A&R, Producer and Consultant within both fields while working in smaller positions in the retail and manufacturing industry or within lower Management- with both fields calling for me to "climb the ladder" separately in order to attain the position that reflects these responsibilities.
 
-My goal isn't to keep these separate. It's to combine deep technical consulting capability with real creative-industry production experience into one package — a consultant (and eventually a firm) that can walk into a business or government engagement and cover both the systems and the creative/production side without handing it off to someone else.
+My current ambiion is to combine deep technical consulting capability with real creative-industry production experience into one package — as a consultant (and eventually a firm) that can walk into a business or government engagement and cover both the systems and the creative/production side without handing it off to someone else. This Github is currently a public placeholder before the complete reset where many of my future guides and projects will have a home.
 
-### What I'm building
-
-🚧 **A multi-discipline tech consulting firm — name TBD, launching soon.**
-
-The plan is Multi-Faceted Consulting spanning:
-
-- Web Development
-- Software / Backend Development
-- Database Administration & System Administration
-- UI/UX Design
-- Machine Learning Engineering
-- Mobile App Development
-- Game Development
-- Creative Direction & Implementation
-- Concept Design, Deployment and Development
-  
-
-Early focus is going deep on **Backend/Software Dev, Database & SysAdmin, and Web Dev + UI/UX** — with an eye toward government and enterprise contracts, so security, accessibility, and compliance-minded engineering are baked in from the start rather than bolted on later. The creative/production background rounds the firm out further, aiming to house future consultants across multiple disciplines for both business and government clients.
 
 ### Tech & Tools
 
@@ -78,7 +60,7 @@ Early focus is going deep on **Backend/Software Dev, Database & SysAdmin, and We
 
 **Digital Audio Workstations**
 
-`Logic Pro` · `Ableton Live` · `Pro Tools`
+`Logic Pro` · `Ableton Live` · `Pro Tools` , `Cubase/Nuendo`
 
 **Office / Business Tools**
 
@@ -89,15 +71,15 @@ Early focus is going deep on **Backend/Software Dev, Database & SysAdmin, and We
 
 ### Music & Creative Background
 
-🎷 🎹 Saxophone and piano/keys
+🎷 🎹 Saxophone(Analog and Electronic), Piano/Keys/Synthesizer
 
-🎚️ **10 years composing, arranging, and producing music** for recording artists, commercials, games, and visual media
+🎚️ **10 years Composing, Arranging, and Producing music** for recording artists, commercials, games, and visual media
 
 ### Currently
 
-- 🏗️ Designing and building out a large-scale multi-campus infrastructure project (network, compute, AV, and building automation) — details coming as pieces are finished
-- 🧠 Laying the technical, business and creative foundation for the consulting firm above
-- 🎼 Pausing production work while building out the firm's practice areas
+- 🏗️ Designing and building out my self-sustainable and self-resilient estate. (TBA!)
+- 🧠 Laying the technical, business and creative foundation for my future business and educational endeavours
+- 🎼 Paused all forms of work to finish designing the estate and other aspects of the project. 
 
 ---
 
